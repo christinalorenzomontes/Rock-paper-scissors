@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+.container{
+display: flex;
+justify-content: space-between;
+}
+
+.choices{
+    background-color: pink;
+    text-transform: uppercase;
+    border-radius: 22.5px;
+}
